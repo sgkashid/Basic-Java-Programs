@@ -1,4 +1,4 @@
-
+//Pgm Started
 public class prime {
 
 	public static void main(String[] args) {
@@ -17,5 +17,5 @@ public class prime {
 		{System.out.println( a+ " is prime");		}	
 		
 	}
-	
+//Program Ended	
 }
