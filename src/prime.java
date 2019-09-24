@@ -1,4 +1,3 @@
-//Prime no identification
 
 public class prime {
 
